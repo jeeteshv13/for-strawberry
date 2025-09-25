@@ -3,7 +3,7 @@
 A small interactive 3D love-letter experience built with Three.js. It renders a glossy pulsating 3D heart with floating particles and animated text, syncs word-by-word lyrics to music, and includes a styled letter modal. Designed to run in the browser with smooth animations and mobile-friendly UI.
 
 - Stack: HTML, CSS, JavaScript, Three.js (r128), OrbitControls, FontLoader, TextGeometry
-- Effects: Pulsating 3D heart, floating mini-hearts/notes, animated lights, word-by-word lyric reveal, cinematic camera intro, “I Love You” 3D text
+- Effects: Pulsating 3D heart, floating mini-hearts/notes, animated lights, word-by-word lyric reveal, cinematic camera intro, “I Love You Panda” 3D text
 - UI: Play/Pause music, toggle pulse, reset camera, open letter modal
 
 ## Features
